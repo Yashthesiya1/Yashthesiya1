@@ -1,5 +1,16 @@
-# 💫 About Me:
-# Hi there! 👋<br><br>🔭 **I’m currently working on**  <br>Developing full-stack applications using the MERN stack (MongoDB, Express, React, Node.js). Currently focusing on building scalable APIs and optimizing frontend performance.<br><br><br>💬 **Ask me about**  <br>Building scalable applications with the MERN stack, optimizing React components, and integrating backend services with MongoDB and Express. Always up for a discussion on full-stack development.<br><br>⚡ **Fun fact**  <br>I enjoy participating in hackathons and coding challenges to test my skills and learn new techniques. Plus, I’m a big fan of tech podcasts!<br><br>---<br>
+Hi, I’m Yash Thesiya 👋
+I’m a Junior Software Developer passionate about building modern web and mobile applications. I work with the MERN and PERN stacks, Next.js, Express.js, PostgreSQL, MySQL, MongoDB, and cloud technologies.
+
+I enjoy learning new technologies, building real-world projects, and improving my skills in full stack development. I’ve worked on various projects like SaaS platforms, dashboards, ERP modules, and mobile apps, focusing on writing clean code and creating good user experiences.
+
+Things I work with:
+• JavaScript, TypeScript, Python, PHP
+• React.js, Next.js, Node.js, Express.js
+• MERN stack, PERN stack
+• PostgreSQL, MySQL, MongoDB, Supabase, Firebase
+• Docker, CI/CD basics, cloud platforms
+• Mobile app development (iOS & Android)
+• AI, automation tools, and data handling
 
 
 ## 🌐 Socials:
