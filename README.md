@@ -50,7 +50,11 @@ Things I work with:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashthesiya1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashthesiya1&theme=shadow_green&hide_border=false)<br/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashthesiya1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashthesiya1&theme=shadow_green&hide_border=false" width="48%" />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashthesiya1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
