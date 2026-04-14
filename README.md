@@ -46,28 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
 
----
-
-## 📊 GitHub stats
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashthesiya1&theme=shadow_green&hide_border=false" />
-</p>
 
-
----
-
-## 🔁 Pull request activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/issues-pr/Yashthesiya1/PingMonitor-Backend?label=PingMonitor-Backend%20Open%20PRs&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/issues-pr-closed/Yashthesiya1/PingMonitor-Backend?label=PingMonitor-Backend%20Closed%20PRs&style=for-the-badge&color=21813a" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/issues-pr/Yashthesiya1/PingMonitor?label=PingMonitor%20Open%20PRs&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/issues-pr-closed/Yashthesiya1/PingMonitor?label=PingMonitor%20Closed%20PRs&style=for-the-badge&color=21813a" />
-</p>
 
 ---
 
