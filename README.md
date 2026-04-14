@@ -50,15 +50,11 @@
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashthesiya1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashthesiya1&theme=shadow_green&hide_border=false" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashthesiya1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+
 
 ---
 
