@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Thesiya</h1>
-<h3 align="center">Junior Software Developer · Full Stack · MERN / PERN · India</h3>
+<h3 align="center">Junior Software Developer · Full Stack · MERN / PERN · Ahmedabad, India</h3>
 
 <p align="center">
   Passionate about building modern web apps — SaaS platforms, dashboards,
-  ERP modules, and mobile apps. I focus on clean code and great UX.
+  ERP modules, and mobile apps. I focus on clean code and great user experiences.
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🔭 Currently working on **SaaS platforms and ERP modules**
 - 🌱 Learning **Docker, Kubernetes, and cloud deployment**
 - 💬 Ask me about **React, Next.js, Node.js, PostgreSQL**
-- 📫 Reach me at **[your-email@example.com]**
+- 📫 Reach me at **yashthesiya72@gmail.com**
 - ⚡ Fun fact: I enjoy turning complex problems into clean UI
 
 ---
@@ -51,7 +51,7 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashthesiya1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashthesiya1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashthesiya1&theme=shadow_green&hide_border=false" />
@@ -64,15 +64,13 @@
 
 ## 🔁 Pull request activity
 
-<!-- PR stats via github-readme-stats (requires GitHub token scope: public_repo) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashthesiya1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=shadow_green&hide_border=false" />
+  <img src="https://img.shields.io/github/issues-pr/Yashthesiya1/PingMonitor-Backend?label=PingMonitor-Backend%20Open%20PRs&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/issues-pr-closed/Yashthesiya1/PingMonitor-Backend?label=PingMonitor-Backend%20Closed%20PRs&style=for-the-badge&color=21813a" />
 </p>
-
-<!-- Alternative: flat PR badges via shields.io -->
 <p align="center">
-  <img src="https://img.shields.io/github/issues-pr/Yashthesiya1/YOUR-REPO?label=Open%20PRs&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/issues-pr-closed/Yashthesiya1/YOUR-REPO?label=Closed%20PRs&style=for-the-badge&color=21813a" />
+  <img src="https://img.shields.io/github/issues-pr/Yashthesiya1/PingMonitor?label=PingMonitor%20Open%20PRs&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/issues-pr-closed/Yashthesiya1/PingMonitor?label=PingMonitor%20Closed%20PRs&style=for-the-badge&color=21813a" />
 </p>
 
 ---
@@ -80,14 +78,11 @@
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/yash-thesiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR-HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="mailto:yashthesiya72@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
