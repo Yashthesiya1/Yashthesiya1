@@ -1,70 +1,80 @@
-<h1 align="center">Hi 👋, I'm Yash Thesiya</h1>
-<h3 align="center">Junior Software Developer · Full Stack · MERN / PERN · Ahmedabad, India</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Yash Thesiya</h1>
+  <h3>AI & Full-Stack Software Engineer · Ahmedabad, India</h3>
+  <p>
+    Passionate about building production-ready SaaS platforms, intelligent agentic workflows, and high-performance web applications. Focused on clean architecture, scalable infrastructure, and seamless user experiences.
+  </p>
 
-<p align="center">
-  Passionate about building modern web apps — SaaS platforms, dashboards,
-  ERP modules, and mobile apps. I focus on clean code and great user experiences.
+  <p>
+    <a href="https://yashai.me" target="_blank">🌐 Portfolio (yashai.me)</a> • 
+    <a href="https://www.linkedin.com/in/yash-thesiya/" target="_blank">💼 LinkedIn</a> • 
+    <a href="mailto:yashthesiya72@gmail.com">✉️ Email</a>
+  </p>
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🚀 **Currently Building:** AI-driven SaaS platforms, MedTech regulatory compliance solutions, and automated financial operation tools.
+- 🤖 **Deep Dive:** Advanced AI Engineering—specifically agentic workflows, custom LLM tool integration, and multi-agent systems.
+- ⚙️ **DevOps & Infra:** Optimizing local and VPS deployments using containerization, reverse proxies, and proactive metrics monitoring.
+- ⚡ **Philosophy:** Turning complex backend logic and intense data streams into clean, high-performance user interfaces.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+#### 🔹 Core Languages & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" title="NestJS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
 </p>
 
----
-
-## 🧑‍💻 About me
-
-- 🔭 Currently working on **SaaS platforms and ERP modules**
-- 🌱 Learning **Docker, Kubernetes, and cloud deployment**
-- 💬 Ask me about **React, Next.js, Node.js, PostgreSQL**
-- 📫 Reach me at **yashthesiya72@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex problems into clean UI
-
----
-
-## 💻 Tech stack
-
+#### 🔹 AI & Agentic Frameworks
 <p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI"/>
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" title="NestJS"/>
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white" height="35" title="LangChain"/>&nbsp;
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" height="35" title="Gemini API"/>&nbsp;
+  <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white" height="35" title="Claude API"/>&nbsp;
+  <img src="https://img.shields.io/badge/AI_Agents-⚡-orange?style=flat-square" height="35" title="Agentic Workflows"/>
+</p>
+
+#### 🔹 Databases & Caching
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/ScyllaDB-335EEA?style=flat-square&logo=scylladb&logoColor=white" height="35" title="ScyllaDB"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+</p>
+
+#### 🔹 DevOps, Monitoring & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
 
-
-
-
-
 ---
 
-## 🤝 Connect with me
+### 📊 GitHub Metrics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yash-thesiya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yashthesiya72@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashthesiya1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Yash's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashthesiya1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashthesiya1&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Yashthesiya1&label=Profile%20views&color=0e75b6&style=flat-square" />
 </p>
