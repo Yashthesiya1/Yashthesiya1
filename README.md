@@ -16,49 +16,7 @@ Building scalable web applications, AI-powered tools, and production-ready backe
 
 </div>
 
----
 
-# 👨‍💻 About Me
-
-- 💼 Full Stack Software Engineer from India
-- 🚀 Building AI-powered SaaS applications
-- 🤖 Exploring Agentic AI workflows and LLM integrations
-- 🐳 Passionate about Docker, PostgreSQL, DevOps and scalable backend architecture
-- 🌱 Currently learning advanced AI Engineering and distributed systems
-- ⚡ Love solving real-world engineering problems
-
----
-
-# 🚀 Featured Projects
-
-### 🩺 MedTech Platform
-Regulatory compliance platform for healthcare workflows.
-
-**Tech**
-
-Next.js • Node.js • PostgreSQL • Docker
-
----
-
-### 🤖 AI SaaS Platform
-
-Production-ready AI platform with intelligent workflow automation.
-
-**Tech**
-
-Next.js • Express • LangChain • Gemini API • PostgreSQL
-
----
-
-### 💰 Financial Operations Automation
-
-Automation tools for financial and business operations.
-
-**Tech**
-
-Node.js • PostgreSQL • Docker • Redis
-
----
 
 # 🛠 Tech Stack
 
@@ -105,23 +63,7 @@ Node.js • PostgreSQL • Docker • Redis
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashthesiya1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashthesiya1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashthesiya1&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🌍 Connect With Me
 
