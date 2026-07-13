@@ -1,71 +1,144 @@
 <div align="center">
-  <h1>Hi 👋, I'm Yash Thesiya</h1>
-  <h3>AI & Full-Stack Software Engineer · Ahmedabad, India</h3>
-  <p>
-    Passionate about building production-ready SaaS platforms, intelligent agentic workflows, and high-performance web applications. Focused on clean architecture, scalable infrastructure, and seamless user experiences.
-  </p>
 
-  <p>
-    <a href="https://yashai.me" target="_blank">🌐 Portfolio (yashai.me)</a> • 
-    <a href="https://www.linkedin.com/in/yash-thesiya/" target="_blank">💼 LinkedIn</a> • 
-    <a href="mailto:yashthesiya72@gmail.com">✉️ Email</a>
-  </p>
+# Hi 👋 I'm Yash Thesiya
+
+### Full Stack Software Engineer • AI Applications • SaaS Development
+
+Building scalable web applications, AI-powered tools, and production-ready backend systems using modern JavaScript technologies.
+
+<p>
+  <a href="https://yashai.me">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/yash-thesiya/">LinkedIn</a> •
+  <a href="mailto:yashthesiya72@gmail.com">Email</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Yashthesiya1&label=Profile%20Views&style=flat-square" />
+
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-- 🚀 **Currently Building:** AI-driven SaaS platforms, MedTech regulatory compliance solutions, and automated financial operation tools.
-- 🤖 **Deep Dive:** Advanced AI Engineering—specifically agentic workflows, custom LLM tool integration, and multi-agent systems.
-- ⚙️ **DevOps & Infra:** Optimizing local and VPS deployments using containerization, reverse proxies, and proactive metrics monitoring.
-- ⚡ **Philosophy:** Turning complex backend logic and intense data streams into clean, high-performance user interfaces.
+- 💼 Full Stack Software Engineer from India
+- 🚀 Building AI-powered SaaS applications
+- 🤖 Exploring Agentic AI workflows and LLM integrations
+- 🐳 Passionate about Docker, PostgreSQL, DevOps and scalable backend architecture
+- 🌱 Currently learning advanced AI Engineering and distributed systems
+- ⚡ Love solving real-world engineering problems
+
+---
+
+# 🚀 Featured Projects
+
+### 🩺 MedTech Platform
+Regulatory compliance platform for healthcare workflows.
+
+**Tech**
+
+Next.js • Node.js • PostgreSQL • Docker
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🤖 AI SaaS Platform
 
-#### 🔹 Core Languages & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" title="NestJS"/>&nbsp;
-</p>
+Production-ready AI platform with intelligent workflow automation.
 
-#### 🔹 AI & Agentic Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white" height="35" title="LangChain"/>&nbsp;
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" height="35" title="Gemini API"/>&nbsp;
-  <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white" height="35" title="Claude API"/>&nbsp;
-  <img src="https://img.shields.io/badge/AI_Agents-⚡-orange?style=flat-square" height="35" title="Agentic Workflows"/>
-</p>
+**Tech**
 
-#### 🔹 Databases & Caching
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/ScyllaDB-335EEA?style=flat-square&logo=scylladb&logoColor=white" height="35" title="ScyllaDB"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
-</p>
-
-#### 🔹 DevOps, Monitoring & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-</p>
+Next.js • Express • LangChain • Gemini API • PostgreSQL
 
 ---
+
+### 💰 Financial Operations Automation
+
+Automation tools for financial and business operations.
+
+**Tech**
+
+Node.js • PostgreSQL • Docker • Redis
+
 ---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+
+---
+
+## AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge)
+
+---
+
+## Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+---
+
+## DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashthesiya1&label=Profile%20views&color=0e75b6&style=flat-square" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashthesiya1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashthesiya1&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashthesiya1&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://yashai.me">Portfolio</a> •
+<a href="https://www.linkedin.com/in/yash-thesiya/">LinkedIn</a> •
+<a href="mailto:yashthesiya72@gmail.com">Email</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👋
+
+*"Build simple. Scale smart. Keep learning."*
+
+</div>
